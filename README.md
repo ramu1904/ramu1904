@@ -35,12 +35,13 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer speciali
 
 ## 🌟 Featured Projects
 
-- **[Personal Portfolio](https://ramu1904.github.io/Ramu_Personal_Portfolio/)**: My personal portfolio showcasing my skills and projects.
-- **[E-Learning Platform]( working on this ......)**: An e-learning platform with modes for teachers and students.
+- **[LegalMate AI ](https://github.com/LegalMate-AI-Your-Legal-Guide)**: This is startup , LegalMate AI is an open-source initiative focused on building AI-powered tools that provide general legal information based on Indian laws. Our mission is to make legal knowledge accessible, understandable, and available to everyone—especially those without access to professional legal counsel.
+We are developing an ecosystem of tools and services that leverage artificial intelligence, natural language processing, and localized legal data to empower citizens with awareness of their rights and responsibilities.
+
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/ramu-r-586a52322)
+- [LinkedIn](www.linkedin.com/in/ramu-r-nayak1904)
 - [Instagram](https://www.instagram.com/__ramu1904/)
 - [Email Id](ramuconnect45@gmail.com)
 - [Youtube](https://youtube.com/@aistreamx?si=udINPB9zZCpfwixF)
